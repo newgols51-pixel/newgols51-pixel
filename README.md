@@ -40,8 +40,6 @@ Mission:
 
 ---
 
----
-
 # 🛠 Tech Stack
 
 <div align="center">
@@ -138,9 +136,6 @@ Mission:
    ▼
 🚀 Production
 ```
-
----
-
 # 💻 Core Technologies
 
 | Category | Technologies |
@@ -152,8 +147,6 @@ Mission:
 | 🔍 SEO | GSC • Bing • Schema.org |
 | 💳 Payments | Razorpay |
 | 🤖 Focus | AI Automation • Education Tech |
-
----
 
 ---
 
@@ -215,8 +208,6 @@ A modern AI-powered education platform designed to help students learn, prepare 
                      ▼
           Cloudflare Infrastructure
 ```
-
----
 
 # 🎯 Current Mission
 
@@ -289,8 +280,6 @@ A modern AI-powered education platform designed to help students learn, prepare 
 ♻ Improve
 ```
 
----
-
 # ❤️ Open Source
 
 Every contribution, feedback and suggestion helps improve Studyria and make education more accessible for everyone.
@@ -302,8 +291,6 @@ Every contribution, feedback and suggestion helps improve Studyria and make educ
 💙 Share it.
 
 🌍 Help students discover Studyria.
-
----
 
 ---
 
