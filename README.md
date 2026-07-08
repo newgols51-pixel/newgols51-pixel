@@ -1,29 +1,24 @@
 <div align="center">
 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"/>
+
 # 👋 Hello, I'm the Founder of Studyria
 
-### Building AI-Powered Education for the Future
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=AI+Automation+Developer;Building+Studyria;Full-Stack+Web+Developer;Cloud+%26+Technical+SEO" alt="Typing SVG" />
-</p>
+### 🚀 Building the Future of AI-Powered Education
 
-<p>
+<sub>
+AI Automation • Full-Stack Engineering • Cloud Infrastructure • Technical SEO
+</sub>
 
-<img src="https://img.shields.io/badge/Website-Studyria-0A66C2?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Open%20Source-GitHub-black?style=for-the-badge" />
-
-</p>
-
-<p>
+<br><br>
 
 <a href="https://studyria.qzz.io">
-<img src="https://img.shields.io/badge/🌐_Visit_Website-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐_Website-Studyria-0A66C2?style=for-the-badge"/>
 </a>
 
-</p>
+<img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open_Source-GitHub-black?style=for-the-badge"/>
 
 </div>
 
