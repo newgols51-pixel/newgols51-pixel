@@ -3,9 +3,8 @@
 # 👋 Hello, I'm the Founder of Studyria
 
 ### Building AI-Powered Education for the Future
-
-<p>
-AI Automation • Full-Stack Development • Cloud • SEO
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=AI+Automation+Developer;Building+Studyria;Full-Stack+Web+Developer;Cloud+%26+Technical+SEO" alt="Typing SVG" />
 </p>
 
 <p>
@@ -155,5 +154,17 @@ career hub, intelligent search and modern learning experience.
 <div align="center">
 
 ### ⭐ If you like my work, consider starring my repositories!
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+Building modern AI-powered products for education and productivity.
+
+🌐 https://studyria.qzz.io
 
 </div>
