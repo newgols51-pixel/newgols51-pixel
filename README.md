@@ -20,23 +20,32 @@
 </div>
 
 ---
-
 # 💫 About Me
 
+<img align="right" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1nMXJ0aDZwOGMxNGdrbnk3bnM2bTh3MmM0N3J4bTVmcm5vM2drZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378xauX4ScdqvOKc/giphy.gif">
+
 ```yaml
-Role:
-  Founder : Studyria
+Name        : Founder @ Studyria
+Role        : AI Automation Developer
+Focus       : Education Technology
+Experience  : Full-Stack Web Development
+Mission     : Build AI-powered products that
+              simplify learning and productivity.
 
-Focus:
-  - AI Automation
-  - Full Stack Development
-  - SEO Engineering
-  - Cloud Technologies
-  - Modern Web Applications
+Currently Building:
+  • Studyria
+  • AI Automation
+  • Smart Learning Platform
+```
 
-Mission:
-  Building an intelligent learning ecosystem
-  for students with AI-powered experiences.
+### 🚀 Interests
+
+- 🤖 Artificial Intelligence
+- 🌐 Full Stack Development
+- ☁ Cloud Technologies
+- 📈 Technical SEO
+- ⚡ Performance Optimization
+- 💡 Product Building
 
 ---
 
