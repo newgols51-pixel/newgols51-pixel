@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-<b>AI Automation • Full-Stack Engineering • Cloud Infrastructure • Technical SEO</b>
+<b>Building Intelligent Products • AI Automation • Cloud Engineering • Technical SEO</b>
 </p>
 
 <p align="center">
