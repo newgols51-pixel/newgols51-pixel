@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,25:1D4ED8,60:2563EB,100:38BDF8&text=👋%20Hello,%20I'm%20the%20Founder%20of%20Studyria&fontColor=ffffff&fontSize=34&fontAlignY=38&desc=Building%20the%20Future%20of%20AI-Powered%20Education&descAlignY=60&descSize=18&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,25:1D4ED8,60:2563EB,100:38BDF8&text=👋%20Hello,%20I'm%20the%20Founder%20of%20Studyria&fontColor=ffffff&fontSize=34&fontAlignY=38&desc=Building%20the%20Future%20of%20AI-Powered%20Education&descAlignY=60&descSize=18&animation=fadeIn"/>
 
 </div>
 
