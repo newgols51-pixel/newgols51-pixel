@@ -1,28 +1,26 @@
 <div align="center">
 
-# 👋 Hello, I'm the Founder of Studyria
-
-### Building the Future of AI-Powered Education
-
-<sub>
-AI Automation • Full-Stack Engineering • Cloud Infrastructure • Technical SEO
-</sub>
-
-<br>
-
-<a href="https://studyria.qzz.io">
-  <img src="https://img.shields.io/badge/🌐_Website-Studyria-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<img src="https://img.shields.io/badge/Status-Live-22C55E?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open_Source-GitHub-181717?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/badge/AI-Powered-8B5CF6?style=for-the-badge"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,25:1D4ED8,60:2563EB,100:38BDF8&text=👋%20Hello,%20I'm%20the%20Founder%20of%20Studyria&fontColor=ffffff&fontSize=34&fontAlignY=38&desc=Building%20the%20Future%20of%20AI-Powered%20Education&descAlignY=60&descSize=18&animation=fadeIn"/>
 
 </div>
 
----
+<p align="center">
+<b>AI Automation • Full-Stack Engineering • Cloud Infrastructure • Technical SEO</b>
+</p>
+
+<p align="center">
+
+<a href="https://studyria.qzz.io">
+<img src="https://img.shields.io/badge/🌐_Website-Studyria-0A66C2?style=for-the-badge"/>
+</a>
+
+<img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open_Source-GitHub-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI-Powered-8A2BE2?style=for-the-badge"/>
+
+</p>
 
 ---
 # 💫 About Me
