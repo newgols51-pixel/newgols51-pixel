@@ -1,26 +1,28 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"/>
-
 # 👋 Hello, I'm the Founder of Studyria
 
-### 🚀 Building the Future of AI-Powered Education
+### Building the Future of AI-Powered Education
 
 <sub>
 AI Automation • Full-Stack Engineering • Cloud Infrastructure • Technical SEO
 </sub>
 
-<br><br>
+<br>
 
 <a href="https://studyria.qzz.io">
-<img src="https://img.shields.io/badge/🌐_Website-Studyria-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🌐_Website-Studyria-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Live-22C55E?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Open_Source-GitHub-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open_Source-GitHub-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/AI-Powered-8B5CF6?style=for-the-badge"/>
 
 </div>
+
+---
 
 ---
 # 💫 About Me
